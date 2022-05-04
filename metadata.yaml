@@ -1,0 +1,34 @@
+_repo: Readers-and-Writers-1917-1921_67870
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orage, A. R. (Alfred Richard)
+    alias: Orage, Alfred Richard
+    birthdate: 1873
+    deathdate: 1934
+    gutenberg_agent_id: '54502'
+    url: http://www.gutenberg.org/2009/agents/54502
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Richard_Orage
+description: ''
+gutenberg_issued: '2022-04-18'
+identifiers:
+  gutenberg: '67870'
+  lccn: '22005245'
+language: en
+pgterms:marc904: https://archive.org/details/readersandwriter00oragiala/page/n5
+pgterms:marc905: 20190726224421orage
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United Kingdom :George Allen & Unwin Ltd.,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature, Modern -- History and criticism'
+- GITenberg
+title: Readers and Writers (1917-1921)
+url: http://www.gutenberg.org/ebooks/67870
