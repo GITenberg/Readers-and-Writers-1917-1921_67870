@@ -1,5 +1,8 @@
 _repo: Readers-and-Writers-1917-1921_67870
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67870-h/images/cover.jpg
 creator:
   author:
     agent_name: Orage, A. R. (Alfred Richard)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54502
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Richard_Orage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67870#Readers-and-Writers-1917-1921
 gutenberg_issued: '2022-04-18'
 identifiers:
   gutenberg: '67870'
